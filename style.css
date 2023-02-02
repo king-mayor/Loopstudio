@@ -35,7 +35,7 @@ body, html {
     padding-top: 20px;
 }
 header{
-    background-image: url(images/image-hero.jpg);
+    background-image: url(./IMAGES/image-hero.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
