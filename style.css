@@ -194,10 +194,8 @@ footer {
         transition: 0.5s;
     }
     .nav-links ul li a {
-        line-height: 20px;
-    }
-    .nav-links ul li {
-        border-bottom: 2px solid rgb(189, 181, 181);
+        line-height: 45px;
+        font-size: 1.32em;
     }
     .menu-bar {
         display: block;
